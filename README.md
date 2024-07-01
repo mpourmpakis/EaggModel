@@ -1,1 +1,1 @@
-# EaggModel
+# Aggregation Energy Model 
