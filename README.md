@@ -30,7 +30,7 @@ Eagg Model utilizes 4 features, 3 of which are tabulated:
 ### ΔEA
 - ΔEA = EA<sub>host</sub> - EA<sub>dopant</sub>
 - EA = electron affinity (eV)
-- 
+  
 ### Δr
 - Δr = r<sub>host</sub> - r<sub>dopant</sub>
 - r= radius (au)
